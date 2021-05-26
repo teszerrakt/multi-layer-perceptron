@@ -4,9 +4,9 @@ The dataset actually have 5 classes and a total of 4,242 images of flowers, but 
 
 <h2>Contributor:</h2>
 <ul>
-  <li>Bagaskara P.W.</li>
-  <li>Nikolas A.P.</li>
-  <li>Zaky S.H</li>
+  <li>Bagaskara P. W.</li>
+  <li>Nikolas A. P.</li>
+  <li>Zaky S. H.</li>
 </ul>
 
 <h2>References:</h2>
